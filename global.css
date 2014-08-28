@@ -33,10 +33,27 @@ header li{
 }
 
 #take_survey {
-  
-  
+  background: #4CC5EF;
+  font-weight: normal;
+  text-align: center;
+  font-size: 12px;
+  height: 70px;
 }
 
+#description {
+  background: white;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+p {
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  font-family: "proxima-nova", Helvetica, sans-serif;
+  margin-bottom: 15px;
+  }
+}
 
 
 #customers_say {
